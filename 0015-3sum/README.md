@@ -35,6 +35,8 @@ Notice that the order of the output and the order of the triplets does not matte
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
+Things to remember: Use two pointer approach for two sum ( sort the array ) . To make sure there is no duplicates, u have to write two while loops when you find the target those while loop will skip the entries which are same that is skip nums[j]==nums[j-1] and nums[k]==nums[k-1]
+
 <ul>
 	<li><code>3 &lt;= nums.length &lt;= 3000</code></li>
 	<li><code>-10<sup>5</sup> &lt;= nums[i] &lt;= 10<sup>5</sup></code></li>
