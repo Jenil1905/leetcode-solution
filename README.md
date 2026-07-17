@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Jenil1905/leetcode-solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jenil1905/leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Jenil1905/leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0561-array-partition](https://github.com/Jenil1905/leetcode-solution/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jenil1905/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jenil1905/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Jenil1905/leetcode-solution/tree/master/1200-minimum-absolute-difference) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Jenil1905/leetcode-solution/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Jenil1905/leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Jenil1905/leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0561-array-partition](https://github.com/Jenil1905/leetcode-solution/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jenil1905/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jenil1905/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Jenil1905/leetcode-solution/tree/master/1200-minimum-absolute-difference) |
@@ -39,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jenil1905/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Jenil1905/leetcode-solution/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Jenil1905/leetcode-solution/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
