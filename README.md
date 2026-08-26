@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jenil1905/leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Jenil1905/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jenil1905/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Jenil1905/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Jenil1905/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/Jenil1905/leetcode-solution/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jenil1905/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jenil1905/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Jenil1905/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,5 +118,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Jenil1905/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Jenil1905/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Jenil1905/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
