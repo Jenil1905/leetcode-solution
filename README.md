@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Jenil1905/leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Jenil1905/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/Jenil1905/leetcode-solution/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/Jenil1905/leetcode-solution/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jenil1905/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Jenil1905/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Jenil1905/leetcode-solution/tree/master/0713-subarray-product-less-than-k) |
@@ -150,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Jenil1905/leetcode-solution/tree/master/0239-sliding-window-maximum) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/Jenil1905/leetcode-solution/tree/master/0566-reshape-the-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/Jenil1905/leetcode-solution/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
