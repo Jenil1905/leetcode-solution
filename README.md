@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jenil1905/leetcode-solution/tree/master/0001-two-sum) |
+| [0771-jewels-and-stones](https://github.com/Jenil1905/leetcode-solution/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Jenil1905/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Jenil1905/leetcode-solution/tree/master/0680-valid-palindrome-ii) |
+| [0771-jewels-and-stones](https://github.com/Jenil1905/leetcode-solution/tree/master/0771-jewels-and-stones) |
 ## Sliding Window
 |  |
 | ------- |
