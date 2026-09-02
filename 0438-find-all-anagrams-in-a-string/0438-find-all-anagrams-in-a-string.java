@@ -18,8 +18,8 @@ class Solution {
         }
         while(true){
             boolean equal = true;
-            for(int i=left; i<=right; i++){
-                if(freqP[s.charAt(i)-'a'] != freqS[s.charAt(i)-'a']){
+            for(int i=0; i<26; i++){
+                if(freqP[i] != freqS[i]){
                     equal = false;
                     break;
                 }
