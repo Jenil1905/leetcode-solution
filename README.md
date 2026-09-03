@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jenil1905/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Jenil1905/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Jenil1905/leetcode-solution/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jenil1905/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Jenil1905/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Jenil1905/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Jenil1905/leetcode-solution/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Jenil1905/leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Math
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jenil1905/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Jenil1905/leetcode-solution/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Jenil1905/leetcode-solution/tree/master/0771-jewels-and-stones) |
 ## Sliding Window
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Jenil1905/leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jenil1905/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Jenil1905/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Jenil1905/leetcode-solution/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jenil1905/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
