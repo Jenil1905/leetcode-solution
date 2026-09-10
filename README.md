@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jenil1905/leetcode-solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jenil1905/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Jenil1905/leetcode-solution/tree/master/0076-minimum-window-substring) |
+| [0205-isomorphic-strings](https://github.com/Jenil1905/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jenil1905/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Jenil1905/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Jenil1905/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/Jenil1905/leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Jenil1905/leetcode-solution/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Jenil1905/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jenil1905/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
