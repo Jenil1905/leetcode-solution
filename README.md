@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Jenil1905/leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Jenil1905/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Jenil1905/leetcode-solution/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jenil1905/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Jenil1905/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Jenil1905/leetcode-solution/tree/master/0561-array-partition) |
 ## Tree
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Jenil1905/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Jenil1905/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jenil1905/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0567-permutation-in-string) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Jenil1905/leetcode-solution/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
