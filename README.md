@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jenil1905/leetcode-solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Jenil1905/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Jenil1905/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Jenil1905/leetcode-solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Jenil1905/leetcode-solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Jenil1905/leetcode-solution/tree/master/0018-4sum) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Jenil1905/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Jenil1905/leetcode-solution/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Jenil1905/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Jenil1905/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/Jenil1905/leetcode-solution/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Jenil1905/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jenil1905/leetcode-solution/tree/master/0076-minimum-window-substring) |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jenil1905/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Jenil1905/leetcode-solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
