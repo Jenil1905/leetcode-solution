@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Jenil1905/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jenil1905/leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Jenil1905/leetcode-solution/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/Jenil1905/leetcode-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Jenil1905/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jenil1905/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Jenil1905/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Jenil1905/leetcode-solution/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/Jenil1905/leetcode-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Jenil1905/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Jenil1905/leetcode-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Jenil1905/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 ## Pigeonhole Principle
 |  |
@@ -242,4 +245,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jenil1905/leetcode-solution/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/Jenil1905/leetcode-solution/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
