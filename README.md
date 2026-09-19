@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jenil1905/leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Jenil1905/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jenil1905/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Jenil1905/leetcode-solution/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jenil1905/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Jenil1905/leetcode-solution/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Jenil1905/leetcode-solution/tree/master/0238-product-of-array-except-self) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Jenil1905/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Jenil1905/leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Jenil1905/leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Jenil1905/leetcode-solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Jenil1905/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Jenil1905/leetcode-solution/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jenil1905/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Jenil1905/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Jenil1905/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jenil1905/leetcode-solution/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/Jenil1905/leetcode-solution/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Jenil1905/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Jenil1905/leetcode-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Jenil1905/leetcode-solution/tree/master/0242-valid-anagram) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Jenil1905/leetcode-solution/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Jenil1905/leetcode-solution/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Jenil1905/leetcode-solution/tree/master/0912-sort-an-array) |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Jenil1905/leetcode-solution/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Jenil1905/leetcode-solution/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -267,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Jenil1905/leetcode-solution/tree/master/0912-sort-an-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jenil1905/leetcode-solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
