@@ -1,39 +1,46 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        int low = 0 , high = nums.length-1;
-        quickSort(nums, low , high);
-        int[] ans = new int[nums.length];
-        for(int i=0; i<nums.length; i++){
-            ans[i] = nums[i];
-        }
-        return ans;
+        int left = 0 , right = nums.length-1;
+        mergeSort(nums,left,right);
+        return nums;
     }
-    private int partition(int[] arr , int low , int high){
-        int randomIdx = low + (int)(Math.random() * (high - low + 1));
-
-    int temp = arr[randomIdx];
-    arr[randomIdx] = arr[high];
-    arr[high] = temp;
-        int pivot = arr[high];
-        int i = low-1;
-        for(int j=low ; j<high; j++){
-            if(arr[j]<pivot){
+    private void mergeSort(int[] arr, int left , int right){
+        if(left>=right){
+            return;
+        }
+        int middle = left+(right-left)/2;
+        mergeSort(arr, left, middle);
+        mergeSort(arr, middle+1, right);
+        merge(arr, left , middle , right);
+    }
+    private void merge(int[] arr , int left , int mid , int right){
+        int i = left;
+        int j = mid+1;
+        int k = 0;
+        int[] temp = new int[right-left+1];
+        while(i<=mid && j<=right){
+            if(arr[i]<=arr[j]){
+                temp[k]=arr[i];
                 i++;
-                 temp = arr[j];
-                arr[j] = arr[i];
-                arr[i] = temp;
+                k++;
+            }else{
+                temp[k]=arr[j];
+                j++;
+                k++;
             }
         }
-         temp = arr[high];
-        arr[high] = arr[i+1];
-        arr[i+1] = temp;
-        return i+1;
-    }
-    private void quickSort(int[] arr , int low , int high){
-        if(low<high){
-            int pivotIdx = partition(arr, low , high);
-            quickSort(arr, low , pivotIdx-1);
-            quickSort(arr, pivotIdx+1, high);
+        while(i<=mid){
+            temp[k]=arr[i];
+            i++;
+            k++;
+        }
+        while(j<=right){
+            temp[k]=arr[j];
+            j++;
+            k++;
+        }
+        for(int x=0; x<temp.length; x++){
+            arr[x+left]=temp[x];
         }
     }
 }
