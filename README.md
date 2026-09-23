@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Jenil1905/leetcode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/Jenil1905/leetcode-solution/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -347,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Jenil1905/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Jenil1905/leetcode-solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
