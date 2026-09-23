@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Jenil1905/leetcode-solution/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Jenil1905/leetcode-solution/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Jenil1905/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jenil1905/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Jenil1905/leetcode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Jenil1905/leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Jenil1905/leetcode-solution/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Jenil1905/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
