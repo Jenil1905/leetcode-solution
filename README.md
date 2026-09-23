@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Jenil1905/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Jenil1905/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Jenil1905/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Jenil1905/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0523-continuous-subarray-sum](https://github.com/Jenil1905/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Jenil1905/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Jenil1905/leetcode-solution/tree/master/0561-array-partition) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Jenil1905/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Jenil1905/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Jenil1905/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Jenil1905/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Jenil1905/leetcode-solution/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jenil1905/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0791-custom-sort-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0791-custom-sort-string) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jenil1905/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/Jenil1905/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Jenil1905/leetcode-solution/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/Jenil1905/leetcode-solution/tree/master/0680-valid-palindrome-ii) |
 ## Counting Sort
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jenil1905/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Jenil1905/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0435-non-overlapping-intervals](https://github.com/Jenil1905/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Jenil1905/leetcode-solution/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
