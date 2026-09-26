@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Jenil1905/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jenil1905/leetcode-solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/Jenil1905/leetcode-solution/tree/master/1200-minimum-absolute-difference) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jenil1905/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Jenil1905/leetcode-solution/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0791-custom-sort-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Jenil1905/leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jenil1905/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Jenil1905/leetcode-solution/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Jenil1905/leetcode-solution/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0791-custom-sort-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jenil1905/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
