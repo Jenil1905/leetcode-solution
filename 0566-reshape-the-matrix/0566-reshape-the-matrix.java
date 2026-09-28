@@ -3,20 +3,20 @@ class Solution {
         int m = mat.length;
         int n = mat[0].length;
         if(m*n != r*c) return mat;
-        int[][] result = new int[r][c];
         List<Integer> list = new ArrayList<>();
         for(int i=0; i<m; i++){
             for(int j=0; j<n; j++){
                 list.add(mat[i][j]);
             }
         }
-        int index = 0;
+        int[][] ans = new int[r][c];
+        int k = 0;
         for(int i=0; i<r; i++){
             for(int j=0; j<c; j++){
-                result[i][j]=list.get(index);
-                index++;
+                ans[i][j]=list.get(k);
+                k++;
             }
         }
-        return result;
+        return ans;
     }
 }
