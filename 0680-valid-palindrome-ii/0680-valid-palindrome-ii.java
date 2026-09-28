@@ -1,18 +1,16 @@
 class Solution {
     public boolean validPalindrome(String s) {
-        int left = 0, right=s.length()-1;
+        int left = 0 , right = s.length()-1;
         while(left<=right){
             if(s.charAt(left)!=s.charAt(right)){
-                boolean res1 = isPalindrome(s, left+1, right);
-                boolean res2 = isPalindrome(s, left , right-1);
-                if(res1 || res2){
+                boolean r1 = isPalindrome(s,left+1,right);
+                boolean r2 = isPalindrome(s, left , right-1);
+                if(r1||r2){
                     return true;
+                }else{
+                    return false;
                 }
-                else{
-                   return false;
-                }
-            }
-            else{
+            }else{
                 left++;
                 right--;
             }
