@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Jenil1905/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jenil1905/leetcode-solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/Jenil1905/leetcode-solution/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Jenil1905/leetcode-solution/tree/master/0680-valid-palindrome-ii) |
 ## Counting Sort
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jenil1905/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0435-non-overlapping-intervals](https://github.com/Jenil1905/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Jenil1905/leetcode-solution/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Jenil1905/leetcode-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Stack
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Jenil1905/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Jenil1905/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Jenil1905/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jenil1905/leetcode-solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jenil1905/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jenil1905/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Jenil1905/leetcode-solution/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Jenil1905/leetcode-solution/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Jenil1905/leetcode-solution/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0791-custom-sort-string) |
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jenil1905/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Jenil1905/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Jenil1905/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jenil1905/leetcode-solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jenil1905/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jenil1905/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
