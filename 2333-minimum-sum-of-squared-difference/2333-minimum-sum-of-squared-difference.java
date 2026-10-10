@@ -50,20 +50,13 @@ class Solution {
             }
             result += (long) d * d;
         }
-
-        // Use any leftover operations to reduce differences at the limit.
-        // Each such operation reduces one limit to limit - 1.
         long extra = Math.max(0, remaining);
-
-        // Recalculate directly using the optimal threshold.
         result = 0;
         for (int d : diff) {
             int reduced = Math.min(d, limit);
             result += (long) reduced * reduced;
         }
 
-        // The binary search finds the smallest feasible threshold.
-        // Remaining operations reduce some values equal to that threshold.
         long countAtLimit = 0;
         for (int d : diff) {
             if (d >= limit) {
